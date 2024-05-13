@@ -18,4 +18,4 @@ This GitHub repository is simply the storehouse of the code that runs **The HR A
 * List here.
 
 ## Marketing and advertising
-* List here.
+* <img alt="Google Ads Logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Ads_logo.svg" height="60px"> <br> **The HR AI Index** includes advertising from [Google Ads](<https://ads.google.com>) to assist in offsetting the costs of providing the website and associated services.
