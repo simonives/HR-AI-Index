@@ -14,7 +14,7 @@ This GitHub repository is simply the storehouse of the code that runs **The HR A
 
 * <img alt="Drupal Logo" src="https://www.drupal.org/files/Wordmark_blue_RGB.png" height="60px"> <br> Drupal, an open source content management platform supporting a variety of websites ranging from personal weblogs to large community-driven websites. For more information, visit the [Drupal website](<https://www.drupal.org>), and join the [Drupal community](<https://www.drupal.org/community>).
 
-## Website Plugins:
+## Website Modules:
 * List here.
 
 ## Marketing and advertising
