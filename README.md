@@ -1,4 +1,6 @@
-[INSERT LOGO WHEN CREATED]
+<p align="center">
+  <img alt="Placeholder logo" src="https://raw.githubusercontent.com/simonives/HR-AI-Index/main/logo.png">
+</p>
 
 # Overview
 
